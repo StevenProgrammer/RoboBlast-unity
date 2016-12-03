@@ -1,0 +1,16 @@
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\GETween.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\GUIAnimatorFREE.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Steven\Documents\2D projec\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
